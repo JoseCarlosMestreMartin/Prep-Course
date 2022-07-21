@@ -61,7 +61,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* ejercicio 7 */
 #ejercicioSiete {
     z-index: -1;
-     display: flex;
+    display: flex;
     justify-content:center;
     width: 80%;
     justify-content: space-around;
